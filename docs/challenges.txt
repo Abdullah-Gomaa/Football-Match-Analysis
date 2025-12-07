@@ -1,0 +1,5 @@
+1. Ball Detecion Yolo
+2. Teams Seperation
+3. Goalkeeper detection confused with players
+4. Long inference time ~51m
+5. Tracker problems with id switching or ReID the same object
